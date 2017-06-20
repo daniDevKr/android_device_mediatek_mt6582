@@ -1,0 +1,1 @@
+# android_device_mediatek_mt6582
